@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vss5123
+- 👋 Hi, I’m Vincent Semrau (@vss5123)
 - 👀 I’m interested in ... UX Design and OOP dev.
 - 🌱 I’m currently learning ... web dev, Java, and UX design.
 - 💞️ I’m looking to collaborate on ...
